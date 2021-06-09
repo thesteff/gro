@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="player.svg"
+   inkscape:export-filename="D:\wamp64\www\gro\images\icons\random.png"
+   inkscape:export-xdpi="23"
+   inkscape:export-ydpi="23">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="248.61664"
+     inkscape:cy="846.15189"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="838"
+     inkscape:window-x="1272"
+     inkscape:window-y="116"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="XMLID_2_"
+       transform="matrix(0.26458333,0,0,0.26458333,108.11517,80.373577)"
+       style="fill:#000000"
+       inkscape:export-filename="D:\wamp64\www\gro\images\icons\random.png"
+       inkscape:export-xdpi="23"
+       inkscape:export-ydpi="23">
+      <path
+         d="m -252.04424,-185.03356 c -1.2,1.9 -2.6,4.7 -4.2,8.4 -0.5,-0.9 -0.8,-1.7 -1.1,-2.2 -0.3,-0.6 -0.7,-1.2 -1.2,-1.9 -0.5,-0.7 -1,-1.3 -1.6,-1.7 -0.5,-0.4 -1.2,-0.8 -1.9,-1.1 -0.8,-0.3 -1.6,-0.4 -2.5,-0.4 h -6.9 c -0.3,0 -0.5,-0.1 -0.7,-0.3 -0.2,-0.2 -0.3,-0.4 -0.3,-0.7 v -5.9 c 0,-0.3 0.1,-0.5 0.3,-0.7 0.2,-0.2 0.4,-0.3 0.7,-0.3 h 6.9 c 5.1,-0.1 9.3,2.2 12.5,6.8 z m 34.6,24.6 c 0,0.3 -0.1,0.5 -0.3,0.7 l -9.8,9.8 c -0.2,0.2 -0.4,0.3 -0.7,0.3 -0.3,0 -0.5,-0.1 -0.7,-0.3 -0.2,-0.2 -0.3,-0.4 -0.3,-0.7 v -5.9 c -0.7,0 -1.5,0 -2.6,0 -1.1,0 -1.9,0 -2.5,0 -0.6,0 -1.3,0 -2.2,0 -0.9,0 -1.6,-0.1 -2.2,-0.2 -0.5,-0.1 -1.2,-0.2 -2,-0.3 -0.8,-0.1 -1.4,-0.3 -1.9,-0.6 -0.5,-0.2 -1.1,-0.5 -1.8,-0.9 -0.7,-0.4 -1.3,-0.8 -1.8,-1.2 -0.5,-0.4 -1.1,-1 -1.7,-1.6 -0.6,-0.6 -1.2,-1.3 -1.7,-2.1 1.2,-1.9 2.6,-4.7 4.2,-8.4 0.5,0.9 0.8,1.7 1.1,2.2 0.3,0.5 0.7,1.2 1.2,1.9 0.5,0.7 1,1.3 1.6,1.7 0.5,0.4 1.2,0.8 1.9,1.1 0.7,0.3 1.6,0.4 2.5,0.4 h 7.9 v -5.9 c 0,-0.3 0.1,-0.5 0.3,-0.7 0.2,-0.2 0.4,-0.3 0.7,-0.3 0.2,0 0.5,0.1 0.7,0.3 l 9.8,9.8 c 0.2,0.3 0.3,0.6 0.3,0.9 z m 0,-27.5 c 0,0.3 -0.1,0.5 -0.3,0.7 l -9.8,9.8 c -0.2,0.2 -0.4,0.3 -0.7,0.3 -0.3,0 -0.5,-0.1 -0.7,-0.3 -0.2,-0.2 -0.3,-0.4 -0.3,-0.7 v -5.9 h -7.9 c -1,0 -1.9,0.2 -2.7,0.5 -0.8,0.3 -1.5,0.8 -2.1,1.4 -0.6,0.6 -1.1,1.2 -1.6,1.9 -0.5,0.7 -0.9,1.4 -1.4,2.4 -0.7,1.3 -1.5,3 -2.4,5.2 -0.6,1.4 -1.1,2.5 -1.5,3.4 -0.4,0.9 -1,2 -1.7,3.2 -0.7,1.2 -1.3,2.3 -2,3.1 -0.7,0.8 -1.4,1.7 -2.3,2.5 -0.9,0.9 -1.8,1.6 -2.8,2.1 -1,0.5 -2,1 -3.3,1.3 -1.2,0.3 -2.5,0.5 -3.9,0.5 h -6.9 c -0.3,0 -0.5,-0.1 -0.7,-0.3 -0.2,-0.2 -0.3,-0.4 -0.3,-0.7 v -5.9 c 0,-0.3 0.1,-0.5 0.3,-0.7 0.2,-0.2 0.4,-0.3 0.7,-0.3 h 6.9 c 1,0 1.9,-0.2 2.7,-0.5 0.8,-0.3 1.5,-0.8 2.1,-1.4 0.6,-0.6 1.1,-1.2 1.6,-1.9 0.5,-0.7 0.9,-1.4 1.4,-2.4 0.7,-1.3 1.5,-3 2.4,-5.2 0.6,-1.4 1.1,-2.5 1.5,-3.4 0.4,-0.9 1,-2 1.7,-3.2 0.7,-1.2 1.3,-2.3 2,-3.1 0.7,-0.8 1.4,-1.7 2.3,-2.5 0.9,-0.9 1.8,-1.6 2.8,-2.1 1,-0.5 2,-1 3.3,-1.3 1.2,-0.3 2.5,-0.5 3.9,-0.5 h 7.9 v -5.9 c 0,-0.3 0.1,-0.5 0.3,-0.7 0.2,-0.2 0.4,-0.3 0.7,-0.3 0.2,0 0.5,0.1 0.7,0.3 l 9.8,9.8 c 0.2,0.2 0.3,0.5 0.3,0.8 z"
+         class="st0"
+         id="XMLID_7_"
+         inkscape:connector-curvature="0"
+         style="fill:#000000"
+         inkscape:export-filename="D:\wamp64\www\gro\images\icons\random.png"
+         inkscape:export-xdpi="23"
+         inkscape:export-ydpi="23" />
+    </g>
+    <path
+       style="fill:#000000;stroke-width:0.11279261"
+       d="m 45.226472,57.87027 c 0,-1.540232 0.0301,-2.800421 0.0669,-2.800421 0.107826,0 4.719396,2.728849 4.716082,2.790692 -0.0027,0.05043 -4.450772,2.682487 -4.68614,2.772935 -0.05327,0.02047 -0.09684,-1.222974 -0.09684,-2.763206 z M 35.42657,55.907184 v -0.94898 h 3.866007 3.866007 l 0.03686,0.94924 0.03686,0.949242 -3.902867,-2.24e-4 -3.902868,-2.98e-4 z m 0,-3.79592 v -0.94898 h 5.868546 5.868546 v 0.94898 0.948981 H 41.295116 35.42657 Z m 0,-3.907564 v -0.94898 h 5.868546 5.868546 v 0.94898 0.94898 H 41.295116 35.42657 Z"
+       id="path4544"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="D:\wamp64\www\gro\images\icons\play_all.png"
+       inkscape:export-xdpi="23"
+       inkscape:export-ydpi="23" />
+  </g>
+  <style
+     id="style4519"
+     type="text/css">
+	.st0{fill:#333333;}
+</style>
+</svg>

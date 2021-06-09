@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="ticket.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3971">
+      <stop
+         style="stop-color:#2b2b2b;stop-opacity:1;"
+         offset="0"
+         id="stop3973" />
+      <stop
+         style="stop-color:#2b2b2b;stop-opacity:0;"
+         offset="1"
+         id="stop3975" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3971"
+       id="linearGradient3977"
+       x1="-441.14496"
+       y1="421.42551"
+       x2="83.124191"
+       y2="125.45084"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.99882847,-0.04839086,0.04839086,0.99882847,-21.00347,-16.267325)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="755.02081"
+     inkscape:cy="814.05157"
+     inkscape:document-units="px"
+     inkscape:current-layer="g2986"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1003"
+     inkscape:window-x="1271"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g2986"
+       transform="translate(682.57144,-89.302113)"
+       style="fill:#4d4d4d">
+	
+	
+<path
+   style="fill:url(#linearGradient3977);fill-opacity:1;stroke:#000000;stroke-width:7.4;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+   d="m -376.84877,586.92403 c -12.26843,-5.75686 -22.44548,-10.98581 -22.61564,-11.62002 -0.1702,-0.63431 0.14184,-2.54585 0.6933,-4.24802 3.08646,-9.52612 -1.53951,-21.71335 -9.5002,-25.02851 -7.78784,-3.24327 -18.49162,0.62385 -24.0131,8.67569 -1.12183,1.6359 -2.56913,3.21579 -3.21622,3.51084 -1.69888,0.77482 -44.75073,-19.70257 -45.23756,-21.51697 -0.42024,-1.56618 101.07231,-217.7187 102.5422,-218.389 0.44252,-0.2018 1.99105,0.0515 3.44112,0.56289 2.1491,0.75789 6.9915,-8.39108 7.62414,-9.49875 1.05703,-1.85075 0.62464,-3.01034 -1.4298,-3.83463 -0.95019,-0.38122 -1.91452,-1.38968 -2.14295,-2.24103 -0.28156,-1.0493 3.29029,-9.3825 11.08903,-25.87104 9.91601,-20.96483 11.70817,-24.30058 12.98038,-24.15964 0.81178,0.09 11.37528,4.86224 23.47442,10.60507 21.80861,10.3511 21.99248,10.46054 21.31358,12.63501 -2.36751,7.583 -1.9782,15.2838 1.02944,20.36411 4.37438,7.38885 13.90674,10.29892 21.85809,6.67292 4.50759,-2.05556 7.32246,-4.40182 10.10652,-8.42405 1.06384,-1.53695 2.40562,-3.00941 2.98174,-3.27215 1.13795,-0.51892 45.47566,20.07045 45.7967,21.26691 0.10764,0.40122 -5.09319,11.94421 -11.55741,25.65113 l -11.75348,24.9215 -2.24074,-0.54538 c -1.23241,-0.29998 -2.76709,-0.67359 -3.41042,-0.83024 -0.85106,-0.20727 -3.82775,5.66794 -4.26159,6.99424 -0.5292,1.61787 -2.05709,5.58946 -0.0445,6.80063 1.24705,0.75047 2.3708,1.75 2.49722,2.22113 0.27227,1.01475 -102.08867,218.32995 -103.04368,218.76548 -0.36005,0.16421 -10.69245,-4.41156 -22.96089,-10.16832 z m 111.53081,-232.73168 c -5.13781,-2.46784 -8.80188,2.99724 -9.34205,5.50741 -0.27833,1.29343 -1.12752,5.64934 2.95949,7.61952 5.01566,2.41793 6.7329,-1.19537 7.71428,-3.27782 0.98112,-2.08254 3.47558,-7.54007 -1.33172,-9.84911 z m -16.73998,-6.1082 c 0.32436,-1.26496 -0.48869,-1.97534 -4.42454,-3.86579 -5.15049,-2.47387 -8.81452,2.99007 -9.35492,5.50122 -0.27836,1.29348 -1.12675,5.64973 2.96482,7.62206 5.16811,2.49142 10.13315,-6.59973 10.81464,-9.25749 z m -20.97469,-10.91358 c -0.13438,-0.5008 -2.40188,-1.90792 -5.03891,-3.12695 -4.08473,-1.88822 -4.915,-2.00552 -5.60815,-0.7919 -1.25702,2.20093 -4.94297,11.92581 -0.0269,14.2871 3.75788,1.80508 6.47484,-1.64793 7.35382,-2.71 0.5878,-0.71028 3.45452,-7.15746 3.32015,-7.65825 z m -21.37666,-9.06016 c 0.32953,-1.28515 -0.49333,-1.98447 -4.62749,-3.93277 -4.98194,-2.34778 -5.03806,-2.35107 -6.08787,-0.34726 l -5.27128,11.09193 5.09528,2.4399 c 5.2471,2.51266 10.20533,-6.57741 10.89113,-9.25193 z m -21.1774,-9.98018 c 0.32955,-1.28515 -0.49338,-1.98444 -4.62748,-3.93277 -4.98194,-2.34778 -5.03805,-2.35107 -6.08787,-0.34729 l -5.27128,11.09195 5.09526,2.4399 c 5.24714,2.51256 10.20535,-6.57741 10.89114,-9.25194 z"
+   inkscape:connector-curvature="0"
+   sodipodi:nodetypes="cccssssscscsscsssssccccscsssscccsscccsssccsssccccssccccccscsc"
+   inkscape:export-filename="C:\wamp\www\images\icons\ticket.png"
+   inkscape:export-xdpi="8.0522003"
+   inkscape:export-ydpi="8.0522003" />
+</g>
+  </g>
+</svg>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="croche.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3006">
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:1;"
+         offset="0"
+         id="stop3008" />
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:0;"
+         offset="1"
+         id="stop3010" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3006"
+       id="linearGradient3012"
+       x1="231.32494"
+       y1="519.00165"
+       x2="675.79205"
+       y2="34.128418"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="360.25424"
+     inkscape:cy="564.9414"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1003"
+     inkscape:window-x="1271"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:url(#linearGradient3012);fill-opacity:1;stroke:#202020;stroke-opacity:1;stroke-width:6.20000000000000020;stroke-miterlimit:14;stroke-dasharray:none"
+       d="m 208.07464,555.20904 c -8.40644,-1.05386 -12.89957,-3.62025 -16.84075,-9.61915 -7.23062,-11.00576 -8.62021,-29.69589 -3.21394,-43.22788 8.86853,-22.1981 36.5511,-41.48028 70.7871,-49.30646 12.64736,-2.89113 37.05788,-3.66733 45.90668,-1.45974 3.58077,0.89332 6.82307,1.62423 7.2051,1.62423 0.38203,0 0.67585,-59.5125 0.65295,-132.25 -0.0325,-103.00731 -0.40308,-136.67233 -1.67618,-152.25 l -1.63454,-20 3.93491,-3.42172 3.93491,-3.42171 3.72848,3.42171 c 2.11475,1.94076 9.70676,13.94432 17.54116,27.73397 19.62697,34.54619 26.07915,42.4247 44.61281,54.47502 42.69408,27.75909 67.18447,72.9186 67.07622,123.6865 -0.0279,13.03683 -2.09019,19.63843 -9.86017,31.56198 -14.49159,22.23827 -49.21954,52.86213 -72.94294,64.32265 -8.71558,4.2104 -9.68617,4.11058 -8.90063,-0.91541 0.87472,-5.59663 6.01553,-12.5137 22.87334,-30.77657 27.69913,-30.00777 36.65335,-44.02029 39.10911,-61.20209 1.72143,-12.04404 -5.58291,-38.22417 -14.2144,-50.94706 -7.07007,-10.42133 -20.65222,-21.35184 -40.11903,-32.28659 -9.39226,-5.27576 -20.53506,-12.10992 -24.76178,-15.18702 l -7.68493,-5.59475 -0.0407,125.77555 c -0.0433,134.19545 -0.0174,133.53171 -5.74634,146.5222 -2.92552,6.63362 -11.84361,15.57325 -19.25323,19.29974 -19.29767,9.70529 -72.98627,16.88843 -100.47325,13.4426 z"
+       id="path2996"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\wamp\www\images\icons\croche.png"
+       inkscape:export-xdpi="8"
+       inkscape:export-ydpi="8" />
+  </g>
+</svg>

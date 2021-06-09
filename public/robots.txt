@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /ressources/global
+Disallow: /ressources/event
+Disallow: /ressources/tech
+Disallow: /ressources/morceaux
+Disallow: /ressources/com
